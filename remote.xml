@@ -1,0 +1,96 @@
+<keymap>
+
+  <!-- Глобальные кнопки -->
+  <global>
+    <remote>
+
+      <!-- навигация -->
+      <up>Up</up>
+      <down>Down</down>
+      <left>Left</left>
+      <right>Right</right>
+      <select>Select</select>
+      <back>Back</back>
+      <menu>ContextMenu</menu>
+      <home>ActivateWindow(Home)</home>
+
+      <!-- ввод цифр -->
+      <zero>Number0</zero>
+      <one>Number1</one>
+      <two>Number2</two>
+      <three>Number3</three>
+      <four>Number4</four>
+      <five>Number5</five>
+      <six>Number6</six>
+      <seven>Number7</seven>
+      <eight>Number8</eight>
+      <nine>Number9</nine>
+
+      <!-- громкость -->
+      <volumeplus>VolumeUp</volumeplus>
+      <volumeminus>VolumeDown</volumeminus>
+      <mute>Mute</mute>
+
+      <!-- каналы -->
+      <channelplus>ChannelUp</channelplus>
+      <channelminus>ChannelDown</channelminus>
+
+      <!-- медиа -->
+      <play>Play</play>
+      <pause>Pause</pause>
+      <stop>Stop</stop>
+      <forward>SkipForward</forward>
+      <reverse>SkipBackward</reverse>
+      <next>Next</next>
+      <previous>Previous</previous>
+      <record>Record</record>
+
+      <!-- инфо / меню -->
+      <info>Info</info>
+      <subtitle>ToggleSubtitle</subtitle>
+      <audio>AudioCycle</audio>
+      <title>ShowTitle</title>
+      <angle>ChangeAngle</angle>
+      <sleep>Sleep</sleep>
+
+      <!-- цвета -->
+      <red>Red</red>
+      <green>Green</green>
+      <yellow>Yellow</yellow>
+      <blue>Blue</blue>
+
+      <!-- телетекст / epg -->
+      <teletext>ShowTeletext</teletext>
+      <guide>ShowGuide</guide>
+
+      <!-- дополнительные -->
+      <favorites>ActivateWindow(Favourites)</favorites>
+      <history>ShowHistory</history>
+      <support>ActivateWindow(Settings)</support>
+      <camera>ShowCamera</camera>
+      <smart>ActivateWindow(Home)</smart>
+      <prech>ChannelReturn</prech>
+      <source>InputSelect</source>
+      <familystory>ActivateWindow(Favourites)</familystory>
+      <3d>Toggle3D</3d>
+
+    </remote>
+  </global>
+
+  <!-- В контексте просмотра фильма -->
+  <FullscreenVideo>
+    <remote>
+      <play>Play</play>
+      <pause>Pause</pause>
+      <stop>Stop</stop>
+      <forward>SkipForward</forward>
+      <reverse>SkipBackward</reverse>
+      <next>Next</next>
+      <previous>Previous</previous>
+      <info>Info</info>
+      <angle>ChangeAngle</angle>
+      <subtitle>ToggleSubtitle</subtitle>
+    </remote>
+  </FullscreenVideo>
+
+</keymap>

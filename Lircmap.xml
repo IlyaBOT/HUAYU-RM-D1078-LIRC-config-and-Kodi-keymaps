@@ -1,0 +1,77 @@
+<lircmap>
+  <remote device="HUAYU">
+
+    <!-- основные навигационные клавиши -->
+    <up>KEY_UP</up>
+    <down>KEY_DOWN</down>
+    <left>KEY_LEFT</left>
+    <right>KEY_RIGHT</right>
+    <select>KEY_OK</select>
+    <back>KEY_BACK</back>
+    <menu>KEY_MENU</menu>
+    <home>KEY_HOMEPAGE</home>
+
+    <!-- цифры -->
+    <zero>KEY_0</zero>
+    <one>KEY_1</one>
+    <two>KEY_2</two>
+    <three>KEY_3</three>
+    <four>KEY_4</four>
+    <five>KEY_5</five>
+    <six>KEY_6</six>
+    <seven>KEY_7</seven>
+    <eight>KEY_8</eight>
+    <nine>KEY_9</nine>
+
+    <!-- громкость / канал -->
+    <volumeplus>KEY_VOLUMEUP</volumeplus>
+    <volumeminus>KEY_VOLUMEDOWN</volumeminus>
+    <mute>KEY_MUTE</mute>
+    <channelplus>KEY_CHANNELUP</channelplus>
+    <channelminus>KEY_CHANNELDOWN</channelminus>
+
+    <!-- медиа -->
+    <play>KEY_PLAY</play>
+    <pause>KEY_PAUSE</pause>
+    <stop>KEY_STOP</stop>
+    <forward>KEY_FASTFORWARD</forward>
+    <reverse>KEY_REWIND</reverse>
+    <next>KEY_NEXT</next>
+    <previous>KEY_PREVIOUS</previous>
+    <record>KEY_RECORD</record>
+
+    <!-- инфо / меню -->
+    <info>KEY_INFO</info>
+    <subtitle>KEY_SUBTITLE</subtitle>
+    <audio>KEY_AUDIO</audio>
+    <title>KEY_TITLE</title>
+    <angle>KEY_ANGLE</angle>
+    <menucontext>KEY_CONTEXT_MENU</menucontext>
+
+    <!-- цвета (если есть) -->
+    <red>KEY_RED</red>
+    <green>KEY_GREEN</green>
+    <yellow>KEY_YELLOW</yellow>
+    <blue>KEY_BLUE</blue>
+
+    <!-- телетекст / EPG -->
+    <teletext>KEY_TEXT</teletext>
+    <guide>KEY_EPG</guide>
+
+    <!-- дополнительные -->
+    <sleep>KEY_SLEEP</sleep>
+    <recordinglist>KEY_RECORD</recordinglist>
+    <favorites>KEY_FAVORITES</favorites>
+    <subtitle>KEY_SUBTITLE</subtitle>
+    <3d>KEY_3D_MODE</3d>
+    <camera>KEY_CAMERA</camera>
+    <support>KEY_HELP</support>
+
+    <!-- специальные кастомные -->
+    <prech>KEY_LAST</prech>
+    <source>KEY_SOURCE</source>
+    <smart>KEY_HOMEPAGE</smart>
+    <history>KEY_HISTORY</history>
+    <familystory>KEY_FAVORITES</familystory> <!-- handy alias! -->
+  </remote>
+</lircmap>
