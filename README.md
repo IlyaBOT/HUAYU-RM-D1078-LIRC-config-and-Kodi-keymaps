@@ -1,4 +1,5 @@
 # HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps
+![](https://github.com/IlyaBOT/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/blob/main/HUAYU_remote.png?raw=true)
 **"HUAYU RM-D1078+"** Remote control configuration files for Kodi using LIRC.
 
 ## Contents
